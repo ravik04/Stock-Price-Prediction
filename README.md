@@ -5,8 +5,8 @@ This project focuses on time series forecasting of stock prices using multiple a
 
 Technologies & Libraries Used
 
-Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-Statsmodels (for ARIMA modeling and ADF test)
-TensorFlow & Keras (for deep learning models)
-Auto-correlation & Time Series Resampling
-Jupyter Notebook / Google Colab for development
+Python (Pandas, NumPy, Matplotlib, Scikit-learn)\n
+Statsmodels (for ARIMA modeling and ADF test)\n
+TensorFlow & Keras (for deep learning models)\n
+Auto-correlation & Time Series Resampling\n
+Jupyter Notebook / Google Colab for development\n
